@@ -14,4 +14,5 @@
     
     **Hint:** Use `background-color`, `color`, `font-size`, `padding`, `font-weight`
   
-![image](https://github.com/user-attachments/assets/0762b8a3-9ead-41bd-959c-0ac76c96b92e)
+![image](https://github.com/user-attachments/assets/31439dc7-1100-4d39-8127-91734e99b8c7)
+
